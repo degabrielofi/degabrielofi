@@ -32,15 +32,7 @@
 
 <br>
   
-  ##  📊 My Github Stats
-
-  <div align="center">
-    <a href="https://github.com/degabrielofi">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=degabrielofi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degabrielofi&layout=compact&langs_count=7&theme=react"/>
-</div>
-<br/>
-
+ 
 <h5>Note: Language (English) is only a metric of the languages my public code consists of and does not reflect the level of experience or skill in the language. </h5>
 
 <br/>
