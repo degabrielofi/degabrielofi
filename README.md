@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Gabriel</h1>
-<h3 align="center">I love technology and everything it can provide, and I'm always looking for more information about this area and studying everything that is presented to me.</h3> <br>
-
 
 <p align="center">
     <a href="https://github.com/degabrielofi">
