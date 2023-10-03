@@ -44,8 +44,6 @@
 
   ## 💻 Connect with me: 
 
-<br/>
-
 <div> 
  
   <a href="https://www.instagram.com/degabrielofi_" target="_blank">
