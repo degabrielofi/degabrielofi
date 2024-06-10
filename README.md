@@ -13,10 +13,10 @@
     <code><img alt="React_Icon" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
     <code><img alt="HTML_Icon" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
     <code><img alt="CSS_Icon" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-    <code><img alt="Photoshop_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>
+    <code><img alt="Photoshop_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"></code>
     <code><img alt="Node_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
     <code><img alt="VsCode_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-    <code><img alt="Bootstrap_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+    <code><img alt="Bootstrap_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
     <code><img alt="Figma_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
     <code><img alt="Git_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
     <code><img alt="WordPress_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
