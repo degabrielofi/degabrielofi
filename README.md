@@ -20,6 +20,9 @@
     <code><img alt="Figma_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
     <code><img alt="Git_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
     <code><img alt="WordPress_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
+    <code><img alt="Python_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+    <code><img alt="DiscordJS_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"></code>
+    <code><img alt="TypeScript_Icon" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 </div>
 
 ---
