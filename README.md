@@ -36,7 +36,6 @@
 </div>
 <br/>
 
-<h5>Note: Language (English) is only a metric of the languages my public code consists of and does not reflect the level of experience or skill in the language. </h5>
 
 ---
 
