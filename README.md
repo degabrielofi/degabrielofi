@@ -1,4 +1,8 @@
-<h1 align="center">Hi <img width="5%" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/>, I'm Gabriel</h1>
+<h1 align="center">Hi <img width="5%" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/>, Gabriel Pereira  </h1>
+
+<h3 align="center">
+Founder & CEO @ Guebly · Product Builder · Software Architect
+</h3>
 
 <p align="center">
     <a href="https://github.com/degabrielofi">
@@ -6,7 +10,24 @@
     </a>
 </p>
 
-## 🚀 Languages and Tools:
+Sou fundador da **Guebly**, um ecossistema de empresas focado em  
+**tecnologia, produtos digitais, automação, fintech e branding**.
+
+Construo negócios do zero — da ideia, arquitetura técnica, produto,
+modelo de monetização até escala.
+
+## 🏢 Guebly Ecosystem
+
+- **Guebly Studio** – Tecnologia, branding e produtos digitais  
+- **Guebly Pay** – Gateway de pagamentos e infraestrutura financeira  
+- **Guebly Contábil** – Plataforma contábil SaaS para MEI e empresas  
+- **Guebly Trocaí** – Marketplace de produtos usados  
+- **Guebly Games** – Estúdio de jogos e experiências digitais  
+
+> Cada produto nasce com arquitetura própria, modelo de negócio claro
+e integração com o ecossistema.
+
+## 🧠 Core Stack & Expertise:
 
 <div style="display: inline_block">
     <code><img alt="JavaScript_Icon" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -43,7 +64,7 @@
 
 ---
 
-  ## 💻 Connect with me: 
+  ## 🤝 Let’s Connect
 
 <div> 
  
@@ -58,6 +79,5 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{degabrielofi}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=degabrielofi&label=PROFILE+VIEWS&color=blueviolet" /></p> 
 <br></div>
