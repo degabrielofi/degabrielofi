@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="5%" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/>, Gabriel Pereira  </h1>
+<h1 align="center">Hi <img width="5%" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/>, I'm Gabriel Pereira  </h1>
 
 <h3 align="center">
 Founder & CEO @ Guebly · Product Builder · Software Architect
