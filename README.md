@@ -21,7 +21,7 @@ modelo de monetização até escala.
 - **Guebly Studio** – Tecnologia, branding e produtos digitais  
 - **Guebly Pay** – Gateway de pagamentos e infraestrutura financeira  
 - **Guebly Contábil** – Plataforma contábil SaaS para MEI e empresas  
-- **Guebly Trocaí** – Marketplace de produtos usados  
+- **Trocaí** – Marketplace de produtos usados  
 - **Guebly Games** – Estúdio de jogos e experiências digitais  
 
 > Cada produto nasce com arquitetura própria, modelo de negócio claro
