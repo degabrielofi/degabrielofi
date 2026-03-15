@@ -1,83 +1,112 @@
-<h1 align="center">
-  Hi 👋, I'm Gabriel Pereira
-</h1>
+<div align="center">
 
-<h3 align="center">
-Founder & CEO @ Guebly · Software Architect · Product Builder
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Gabriel+Pereira+%F0%9F%91%8B;Founder+%26+CEO+%40+Guebly+Holding;Software+Architect+%26+Product+Builder;I+build+companies+from+0+to+1." alt="Typing SVG" />
 
-<p align="center">
-I build companies, products and infrastructure from zero to scale.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/degabrielofi">
-    <img src="https://streak-stats.demolab.com/?user=degabrielofi&theme=black-ice&hide_border=true&background=0D1117"/>
+<p>
+  <a href="https://www.linkedin.com/in/degabrielofi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:gabriel@guebly.com.br">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.guebly.com.br">
+    <img src="https://img.shields.io/badge/guebly.com.br-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=degabrielofi&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
 </p>
 
----
-
-## 🚀 About Me
-
-Founder of **Guebly**, a technology ecosystem focused on:
-
-- SaaS & Digital Products  
-- Fintech & Payments Infrastructure  
-- Automation & Scalable Systems  
-- Branding & Product Strategy  
-
-I work end-to-end:  
-**idea → architecture → product → monetization → scale**
-
-I don’t just code — I design systems that turn ideas into real businesses.
+</div>
 
 ---
 
-## 🏢 Guebly Ecosystem
+## 🧭 Who I Am
 
-- **Guebly Studio** – Software, branding & digital products  
-- **Guebly Pay** – Payments gateway & financial infrastructure  
-- **Guebly Contábil** – SaaS accounting platform for MEI & companies  
-- **Trocaí** – Marketplace for used products  
-- **Guebly Games** – Game studio & digital experiences  
+I'm a **founder-engineer** — I don't separate business from technology.  
+I architect systems, build products, and operate companies simultaneously.
 
-> Each product has its own architecture, business model and integrations  
-> inside the Guebly ecosystem.
+```
+idea → architecture → product → monetization → scale
+```
+
+Currently leading **Guebly Holding** — a technology ecosystem spanning SaaS, fintech,
+marketplaces, gaming, security, and creative ventures.  
+Every company in my portfolio has been built from scratch: brand, architecture, and business model.
+
+---
+
+## 🏢 The Ecosystem
+
+### ✅ Active Companies
+
+| | Company | Segment |
+|---|---|---|
+| 🟣 | **Guebly Holding** | Technology holding — hub of the entire ecosystem |
+| 🎨 | **Guebly Studio** | Software house · Branding · Tech & automation delivery |
+| 💳 | **Guebly Pay** | Payments gateway & financial infrastructure |
+| 📊 | **Guebly Contábil** | SaaS accounting platform for MEI & companies · BPO Financial |
+
+### 🔨 In Development
+
+| | Company | Segment |
+|---|---|---|
+| 🔄 | **Trocaí** | Marketplace for used products — simple, trusted, fair |
+| 🎮 | **Guebly Games** | Game studio & immersive digital experiences |
+| 🛒 | **Vendaí** | Sales & marketplace platform for real commercial operation |
+| 🎭 | **AYON** | Creative ecosystem (AYON Studios · AYON+ · AYON Academy) |
+| 🛡️ | **Sentrion** | Security company — technology-driven protection solutions |
+
+> → [guebly.com.br](https://www.guebly.com.br) — full ecosystem overview
 
 ---
 
 ## 🧠 Core Expertise
 
-**Product & Architecture**
-- System design & scalable architectures
-- SaaS, multi-tenant platforms
-- Payments, subscriptions & billing logic
-- Business-driven technical decisions
+**🏗 Architecture & Product**
+- System design built around real business outcomes
+- SaaS & multi-tenant platforms at scale
+- Payments, subscriptions & billing systems
+- RBAC, Auth (JWT + 2FA), security-first design
+- Business-driven technical decisions — no over-engineering
 
-**Backend & Infra**
-- Node.js · Python
-- APIs, Auth, Webhooks
-- Databases & system integration
-- Automation & internal tooling
+**⚙️ Backend & Infra**
+- NestJS · Node.js · Python
+- REST APIs, Webhooks, Event-driven architecture
+- PostgreSQL · Redis · Prisma ORM
+- Cloudflare R2, Railway, Vercel, Neon (serverless Postgres)
+- Docker · CI/CD (GitHub Actions)
 
-**Frontend & Product**
-- React · TypeScript
-- UI systems & product UX
-- Design to production workflows
+**🖥 Frontend & UX**
+- React 18 · TypeScript · Vite
+- Styled-components · UI systems & design tokens
+- Design → production without handoff friction
 
 ---
 
 ## 🛠 Tech Stack
 
-<div style="display: inline_block">
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 ---
@@ -85,24 +114,19 @@ I don’t just code — I design systems that turn ideas into real businesses.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=degabrielofi&show_icons=true&theme=react&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degabrielofi&layout=compact&langs_count=6&theme=react&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=degabrielofi&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degabrielofi&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117&title_color=6E40C9"/>
 </div>
 
----
-
-## 🤝 Let’s Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-degabrielofi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/degabrielofi/)
-[![Gmail](https://img.shields.io/badge/Gmail-gabriel@guebly.com.br-red?style=flat-square&logo=gmail)](mailto:gabriel@guebly.com.br)
-[![GitHub](https://img.shields.io/github/followers/degabrielofi?label=Follow&style=social)](https://github.com/degabrielofi)
-
+  <img src="https://streak-stats.demolab.com/?user=degabrielofi&theme=black-ice&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=degabrielofi&label=Profile+Views&color=blueviolet&style=flat-square"/>
+
+**Open to strategic conversations — partnerships, ventures, and hard problems.**  
+📬 gabriel@guebly.com.br · [LinkedIn](https://www.linkedin.com/in/degabrielofi/) · [guebly.com.br](https://www.guebly.com.br)
+
 </div>
