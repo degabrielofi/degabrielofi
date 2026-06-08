@@ -49,12 +49,12 @@ Every company in my portfolio has been built from scratch: brand, architecture, 
 | 🎨 | **Guebly Studio** | Software house · Branding · Tech & automation delivery |
 | 💳 | **Guebly Pay** | Payments gateway & financial infrastructure |
 | 📊 | **Guebly Contábil** | SaaS accounting platform for MEI & companies · BPO Financial |
+| 🎮 | **Guebly Games** | Game studio & immersive digital experiences |
 
 ### 🔨 In Development
 
 | | Company | Segment |
 |---|---|---|
-| 🎮 | **Guebly Games** | Game studio & immersive digital experiences |
 | 🛡️ | **Sentrion** | Security company — technology-driven protection solutions |
 
 > → [guebly.com.br](https://www.guebly.com.br) — full ecosystem overview
