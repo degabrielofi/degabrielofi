@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Gabriel+Pereira+%F0%9F%91%8B;Founder+%26+CEO+%40+Guebly;Building+9+companies+from+0+to+1;Software+Architect+%26+Product+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Gabriel+Pereira+%F0%9F%91%8B;Founder+%26+CEO+%40+Guebly;Building+companies+from+0+to+1;Software+Architect+%26+Product+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -34,14 +34,14 @@ idea → architecture → product → monetization → scale
 ```
 
 Currently leading **Guebly Holding** — a technology ecosystem spanning SaaS, fintech,
-marketplaces, gaming, security, and creative ventures.  
+accounting, gaming, security, and creative ventures.  
 Every company in my portfolio has been built from scratch: brand, architecture, and business model.
 
 ---
 
 ## 🏢 The Ecosystem
 
-### ✅ Active Companies
+### Active
 
 | | Company | Segment |
 |---|---|---|
@@ -50,12 +50,14 @@ Every company in my portfolio has been built from scratch: brand, architecture, 
 | 💳 | **Guebly Pay** | Payments gateway & financial infrastructure |
 | 📊 | **Guebly Contábil** | SaaS accounting platform for MEI & companies · BPO Financial |
 | 🎮 | **Guebly Games** | Game studio & immersive digital experiences |
+| 🌐 | **Ayon** | Digital community platform & creator ecosystem |
 
-### 🔨 In Development
+### In Development
 
 | | Company | Segment |
 |---|---|---|
 | 🛡️ | **Sentrion** | Security company — technology-driven protection solutions |
+| 👁️ | **Vision** | Real-time monitoring & intelligence infrastructure |
 
 > → [guebly.com.br](https://www.guebly.com.br) — full ecosystem overview
 
@@ -71,10 +73,10 @@ Every company in my portfolio has been built from scratch: brand, architecture, 
 - Business-driven technical decisions — no over-engineering
 
 **⚙️ Backend & Infra**
-- NestJS · Node.js · FastAPI · Python
+- NestJS · Node.js · FastAPI · Python · Go
 - REST APIs, Webhooks, Event-driven architecture
 - PostgreSQL · Redis · Prisma ORM · SQLAlchemy
-- Cloudflare R2, Railway, Vercel, Neon (serverless Postgres)
+- Cloudflare R2 · Railway · Vercel · Neon (serverless Postgres)
 - Docker · CI/CD (GitHub Actions)
 
 **🖥 Frontend & Mobile**
@@ -91,11 +93,12 @@ Every company in my portfolio has been built from scratch: brand, architecture, 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
