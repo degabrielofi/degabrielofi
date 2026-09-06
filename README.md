@@ -62,54 +62,62 @@ brand, architecture, and business model included.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🟣 Guebly</h3>
-      Technology, branding & automation hub — the operation behind every company below.
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/guebly.png" width="56" height="56" style="border-radius:14px" alt="Guebly"/>
+      <h3>Guebly</h3>
+      Technology, branding &amp; automation hub — the operation behind every company below.
       <br/><br/>
       <sub><b>Technology · Branding · Automation</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>💳 Guebly Pay</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/pay.png" width="56" height="56" style="border-radius:14px" alt="Guebly Pay"/>
+      <h3>Guebly Pay</h3>
       Payment gateway for the whole ecosystem — PIX, boleto, card, and payouts with real security controls.
       <br/><br/>
       <sub><b>Payments · Fintech</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>📊 Guebly Contábil</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/contabil.png" width="56" height="56" style="border-radius:14px" alt="Guebly Contábil"/>
+      <h3>Guebly Contábil</h3>
       Digital accounting for MEIs and small businesses, with fiscal and financial automation baked in.
       <br/><br/>
       <sub><b>Accounting · BPO · Fiscal</b></sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 Guebly Studio</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/studio.png" width="56" height="56" style="border-radius:14px" alt="Guebly Studio"/>
+      <h3>Guebly Studio</h3>
       Branding, technology and automation studio — websites, systems, APIs and bots, concept to code.
       <br/><br/>
       <sub><b>Branding · Systems · Automation</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>🛡️ Sentrion</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/sentrion.png" width="56" height="56" style="border-radius:14px" alt="Sentrion"/>
+      <h3>Sentrion</h3>
       Security solutions powered by computer vision and AI — smart-camera monitoring and integrated alarms.
       <br/><br/>
       <sub><b>Security · AI · IoT</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>🌌 Lirya</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/lirya.png" width="56" height="56" style="border-radius:14px" alt="Lirya"/>
+      <h3>Lirya</h3>
       Education, entertainment and streaming ecosystem — Lirya Studios, Lirya+ and Lirya Academy.
       <br/><br/>
       <sub><b>Education · Streaming · Entertainment</b></sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>♻️ Trocaí</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/trocai.png" width="56" height="56" style="border-radius:14px" alt="Trocaí"/>
+      <h3>Trocaí</h3>
       Used-goods marketplace with the lowest fees on the market, payments handled natively by Guebly Pay.
       <br/><br/>
       <sub><b>Marketplace · Used Goods</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎮 Guebly Games</h3>
+    <td width="33%" valign="top" align="center">
+      <img src=".github/logos/games.png" width="56" height="56" style="border-radius:14px" alt="Guebly Games"/>
+      <h3>Guebly Games</h3>
       Digital games studio blending technology and narrative into immersive experiences.
       <br/><br/>
       <sub><b>Games · Immersion</b></sub>
