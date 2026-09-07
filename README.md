@@ -23,9 +23,7 @@ const gabriel = {
 };
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-</div>
+---
 
 ## 🏢 The Ecosystem
 
@@ -77,32 +75,15 @@ const gabriel = {
   → <a href="https://www.guebly.com.br/produtos"><b>guebly.com.br/produtos</b></a> — every SaaS these companies ship
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-</div>
+---
 
 ## 🧠 Core Expertise
 
-<table><tr>
-<td valign="top" width="50%">
-
-**Architecture & Product**
-- System design built around real business outcomes
-- SaaS & multi-tenant platforms at scale
-- Payments, subscriptions & billing systems
-- RBAC, Auth (JWT + MFA), security-first design
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Infra**
-- NestJS, Node.js, FastAPI, Python, Go
-- REST APIs, webhooks, event-driven architecture
-- PostgreSQL, Redis, Prisma
-- Docker, self-hosted infra, CI/CD
-
-</td>
-</tr></table>
+- System design built around real business outcomes, not resume-driven architecture
+- SaaS & multi-tenant platforms at scale — payments, subscriptions, billing
+- RBAC, Auth (JWT + MFA), security-first by default
+- REST APIs, webhooks, event-driven backends — NestJS, FastAPI, PostgreSQL, Redis
+- Self-hosted infra — Docker, CI/CD, no vendor lock-in by default
 
 **Languages & Frameworks**
 
@@ -120,9 +101,7 @@ const gabriel = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-</div>
+---
 
 ## 📊 Right Now
 
@@ -143,9 +122,7 @@ const gabriel = {
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-</div>
+---
 
 <div align="center">
 
