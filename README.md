@@ -16,13 +16,14 @@ I'm a **founder-engineer** — I don't separate business from technology. I arch
 ```javascript
 const gabriel = {
   role: "Founder & CEO @ Guebly",
-  builds: ["multi-tenant SaaS", "payment infrastructure", "AI-driven products"],
-  backend: ["NestJS", "FastAPI", "Next.js API routes", "PostgreSQL", "Supabase", "Redis"],
-  frontend: ["React", "React Native", "Next.js"],
-  systemsTools: ["Rust", "Go", "Python", "TypeScript"],
-  infra: ["Docker", "self-hosted VPS fleet", "Cloudflare", "CI/CD"],
+  builds: ["multi-tenant SaaS", "payment gateways", "AI-driven sales & chat products", "e-commerce platforms"],
+  backend: ["NestJS", "Express", "FastAPI", "Next.js API routes", "PostgreSQL", "Supabase", "SQLite/libSQL", "Redis", "Prisma"],
+  frontend: ["React", "Next.js", "Vite", "React Native", "Expo", "Tailwind CSS", "styled-components", "Framer Motion"],
+  ai: ["Google Gemini", "OpenAI", "self-hosted Ollama"],
+  integrations: ["WhatsApp (Baileys)", "Asaas", "Cloudflare API", "Telegram"],
+  systemsTools: ["TypeScript", "Python", "Go", "Rust"],
+  infra: ["Docker", "Nginx", "Let's Encrypt", "self-hosted VPS fleet", "GitHub Actions"],
   loop: "idea → architecture → product → monetization → scale",
-  askMeAbout: ["system design", "billing systems", "shipping fast without breaking prod"],
 };
 ```
 
@@ -84,6 +85,8 @@ const gabriel = {
 
 - System design built around real business outcomes, not resume-driven architecture
 - SaaS & multi-tenant platforms at scale — payments, subscriptions, billing
+- Payment gateways from the ground up: PIX, boleto, card, webhooks, reconciliation
+- AI-driven products — chat assistants wired into real catalogs, not demo scripts
 - RBAC, Auth (JWT + MFA), security-first by default
 - REST APIs, webhooks, event-driven backends, across a dozen+ production services
 - Self-hosted infra across a fleet of VPS instances — Docker, CI/CD, no vendor lock-in by default
@@ -97,20 +100,36 @@ const gabriel = {
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![styled-components](https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**AI & Integrations**
+
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 **Systems & Infra**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
