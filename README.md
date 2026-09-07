@@ -109,20 +109,12 @@ brand, architecture, and business model included.
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src=".github/logos/trocai.png" width="56" height="56" style="border-radius:14px" alt="Trocaí"/>
-      <h3>Trocaí</h3>
-      Used-goods marketplace with the lowest fees on the market, payments handled natively by Guebly Pay.
-      <br/><br/>
-      <sub><b>Marketplace · Used Goods</b></sub>
-    </td>
-    <td width="33%" valign="top" align="center">
       <img src=".github/logos/games.png" width="56" height="56" style="border-radius:14px" alt="Guebly Games"/>
       <h3>Guebly Games</h3>
       Digital games studio blending technology and narrative into immersive experiences.
       <br/><br/>
       <sub><b>Games · Immersion</b></sub>
     </td>
-    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
