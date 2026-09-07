@@ -17,7 +17,10 @@ I'm a **founder-engineer** — I don't separate business from technology. I arch
 const gabriel = {
   role: "Founder & CEO @ Guebly",
   builds: ["multi-tenant SaaS", "payment infrastructure", "AI-driven products"],
-  stack: ["TypeScript", "Node.js", "Python", "Go", "React", "React Native"],
+  backend: ["NestJS", "FastAPI", "Next.js API routes", "PostgreSQL", "Supabase", "Redis"],
+  frontend: ["React", "React Native", "Next.js"],
+  systemsTools: ["Rust", "Go", "Python", "TypeScript"],
+  infra: ["Docker", "self-hosted VPS fleet", "Cloudflare", "CI/CD"],
   loop: "idea → architecture → product → monetization → scale",
   askMeAbout: ["system design", "billing systems", "shipping fast without breaking prod"],
 };
@@ -82,22 +85,30 @@ const gabriel = {
 - System design built around real business outcomes, not resume-driven architecture
 - SaaS & multi-tenant platforms at scale — payments, subscriptions, billing
 - RBAC, Auth (JWT + MFA), security-first by default
-- REST APIs, webhooks, event-driven backends — NestJS, FastAPI, PostgreSQL, Redis
-- Self-hosted infra — Docker, CI/CD, no vendor lock-in by default
+- REST APIs, webhooks, event-driven backends, across a dozen+ production services
+- Self-hosted infra across a fleet of VPS instances — Docker, CI/CD, no vendor lock-in by default
 
-**Languages & Frameworks**
+**Backend & Data**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Infra & Data**
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Systems & Infra**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
